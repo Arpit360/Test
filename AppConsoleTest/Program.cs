@@ -1,5 +1,5 @@
 ﻿using System;
-
+//App is of Console Type
 namespace AppConsoleTest
 {
 	class MainClass
